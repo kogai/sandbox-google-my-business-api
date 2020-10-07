@@ -26,6 +26,7 @@
     ]
   },
   "dependencies": {
+    "googleapis": "61.0.0",
     "next": "latest",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
